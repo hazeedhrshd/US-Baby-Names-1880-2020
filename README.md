@@ -54,11 +54,5 @@ Contributions to this project are welcome. If you find any issues, have suggesti
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code and analysis as per the terms of the license.
 
-## Contact
-
-If you have any questions or inquiries, please feel free to contact the project owner:
-
-- Name: [Your Name]
-- Email: [your.email@example.com]
 
 We hope you find this analysis insightful and useful! Thank you for visiting the repository. 
