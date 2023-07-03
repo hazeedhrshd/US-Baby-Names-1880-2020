@@ -15,7 +15,7 @@ The dataset includes the following information:
 
 ## Files
 
-- `data/`: This folder contains the dataset files in CSV format for each year from 1880 to 2021.
+- `data/`: This folder contains the CSV dataset files in compressed in a zip format for each year from 1880 to 2021.
 - `Analysis of US Baby Names from 1880 - 2021.ipynb`: A Jupyter Notebook that performs the data analysis and generates insights.
 
 ## Usage
