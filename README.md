@@ -25,16 +25,16 @@ To run the analysis locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your_username/hazeedhrshd/US-Baby-Names-1880-2020.git
+   git clone https://github.com/your_username/hazeedhrshd/US-Baby-Names-1880-2021.git
    ```
 
 2. Install the required dependencies:
 
    ```bash
-   pip install pandas matplotlib seaborn
+   pip install pandas matplotlib
    ```
 
-3. Open the Jupyter Notebook `analysis.ipynb` using Jupyter or JupyterLab and execute the cells to perform the analysis.
+3. Open the Jupyter Notebook `Analysis of US Baby Names from 1880 - 2021.ipynb` using Jupyter or JupyterLab and execute the cells to perform the analysis.
 
 ## Analysis Insights
 
